@@ -10,9 +10,8 @@
 
     Less obviously, the *unboosted* samples also contain a substantial dimuon
     component. Extrapolating linearly from the two boost settings gives
-    ~6.2k dimuon-origin particles per ~45k in a `dimuonboost = 1` file, i.e.
-    **~14% of all particles and ~28% of the non-neutrino particles**. Anyone
-    using these samples for absolute rates should apply the appropriate event
+    **~14% of all particles and ~28% of the non-neutrino particles** in the `dimuonboost = 1` case. 
+    Anyone using these samples for absolute rates should apply the appropriate event
     weights rather than assuming the unboosted sample is unbiased.
 
 
